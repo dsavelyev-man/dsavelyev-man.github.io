@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff0c4df3.css",
+    "main.js": "/static/js/main.4c9cc759.js",
+    "static/js/787.1040a89b.chunk.js": "/static/js/787.1040a89b.chunk.js",
+    "static/media/tarkov_help.png": "/static/media/tarkov_help.13dee05c0e086bbd7bb6.png",
+    "static/media/react.png": "/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/sass.png": "/static/media/sass.c5da83bb9ff45b84e0e7.png",
+    "static/media/node.png": "/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/html.png": "/static/media/html.b2db3a7f6897f0a6e75c.png",
+    "static/media/css.png": "/static/media/css.d2811e5969760ef58072.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/telegram.png": "/static/media/telegram.f5d1a699ba370682d03d.png",
+    "static/media/vk.png": "/static/media/vk.320e260a729f0300f700.png",
+    "index.html": "/index.html",
+    "main.ff0c4df3.css.map": "/static/css/main.ff0c4df3.css.map",
+    "main.4c9cc759.js.map": "/static/js/main.4c9cc759.js.map",
+    "787.1040a89b.chunk.js.map": "/static/js/787.1040a89b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0c4df3.css",
+    "static/js/main.4c9cc759.js"
+  ]
+}
