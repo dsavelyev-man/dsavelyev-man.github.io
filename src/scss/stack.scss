@@ -1,0 +1,12 @@
+@import "vars";
+
+.stack {
+  background-color: $accent;
+}
+
+.stack-card {
+  & .stack-card__image {
+    width: 140px;
+    height: 140px;
+  }
+}

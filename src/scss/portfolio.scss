@@ -1,0 +1,10 @@
+@import "vars";
+
+.portfolio {
+  & .portfolio-card {
+    background-color: $accent;
+
+    & .portfolio-card__image {
+    }
+  }
+}
