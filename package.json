@@ -1,9 +1,11 @@
 {
   "name": "dsavelyev-man.github.io",
-  "version": "0.1.0",
+  "version": "1",
   "private": true,
+  "homepage": "https://dsavelyev-man.github.io/",
   "dependencies": {
     "framer-motion": "^6.3.3",
+    "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
@@ -14,7 +16,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
