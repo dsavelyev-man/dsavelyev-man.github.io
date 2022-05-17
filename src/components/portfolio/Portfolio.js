@@ -14,7 +14,7 @@ const PORTFOLIO = [
 
 function Portfolio() {
     return <section id="portfolio" className="portfolio">
-        <h1 className="font-display text-4xl my-4 text-center text-custom-blue">
+        <h1 className="font-display text-4xl my-4 text-center text-white">
             Портфолио
         </h1>
         <div className="gap-3 p-6 grid grid-cols-1 shadow-md lg:grid-cols-2 auto-rows-max">

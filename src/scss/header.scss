@@ -9,6 +9,10 @@
   justify-content: center;
 
   & .header__name {
-    color: $accent;
+    font-size: 72px;
+    background: -webkit-linear-gradient(45deg, $accent, $accent-2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
   }
 }

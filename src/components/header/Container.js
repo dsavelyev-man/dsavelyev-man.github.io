@@ -18,7 +18,7 @@ function Container() {
         initial={INITIAL}
         animate={ANIMATE}
         transition={TRANSITION}
-        className="header__container mb-60 md:mx-40 mx-10"
+        className="header__container mb-40 md:mb-60 md:mx-40 mx-10"
     >
         <Name/>
         <Description/>

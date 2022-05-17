@@ -48,7 +48,7 @@ const STACK = [
 ]
 
 function Stack() {
-    return <section id="stack" className="stack pt-5 noise-background">
+    return <section id="stack" className="stack pt-5">
         <h1 className="font-display text-4xl text-center text-white">
             Навыки
         </h1>

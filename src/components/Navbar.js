@@ -32,7 +32,7 @@ function Navbar() {
         initial={INITIAL}
         animate={ANIMATE}
         transition={TRANSITION}
-        className="noise-background navbar flex items-center justify-center h-20 shadow-xl border-b border-white-100 pt-4 p-2 w-full fixed"
+        className=" navbar flex items-center justify-center h-20 shadow-xl pt-4 p-2 w-full fixed"
     >
         <ul className="flex">
             {
@@ -42,7 +42,7 @@ function Navbar() {
                         key={link.to}
                     >
                         <Link
-                            className="cursor-pointer"
+                            className="cursor-pointer rounded-xl"
                             smooth
                             spy
                             to={link.to}

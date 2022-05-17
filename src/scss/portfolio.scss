@@ -2,9 +2,11 @@
 
 .portfolio {
   & .portfolio-card {
-    background-color: $accent;
+    background-color: $dark-2;
+    box-shadow: 0 0 2px $gray-2;
 
     & .portfolio-card__image {
+      box-shadow: 0 0 2px $gray-2;
     }
   }
 }

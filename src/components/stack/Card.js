@@ -1,7 +1,7 @@
 import React from "react";
 
 function Card(props) {
-    return <div className="bg-white stack-card rounded p-4 shadow-md items-center">
+    return <div className="stack-card text-slate-300 rounded-xl p-4 noise-background shadow-md items-center">
         <div
             className="stack-card__image bg-cover mx-auto"
             style={{
@@ -9,7 +9,7 @@ function Card(props) {
             }}
         />
         <div>
-            <h4 className="text-2xl mt-4 text-center font-semibold">
+            <h4 className="text-2xl text-white mt-4 text-center font-semibold">
                 {
                     props.label
                 }

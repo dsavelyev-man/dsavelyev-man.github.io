@@ -2,5 +2,15 @@
 
 .navbar {
   z-index: 2;
-  background-color: $accent;
+  background-color: $dark;
+  box-shadow: 0 0 1px $gray-2;
+
+  & li a {
+    padding: 10px;
+    transition: 0.1s ease-in-out;
+
+    &:hover {
+      background-color: $gray-3;
+    }
+  }
 }
