@@ -6,7 +6,7 @@ import TarkovHelpImg from "../../img/tarkov_help.png";
 const PORTFOLIO = [
     {
         label: "tarkov.help",
-        description: "Сайт помошник, для игры Escape from Tarkov, Для популярного стримера твича Dunduk.",
+        description: "Сайт помощник, для игры Escape from Tarkov, Для популярного стримера твича Dunduk.",
         link: "https://new.tarkov.help",
         img: TarkovHelpImg
     }
