@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dcd51b10.css",
-    "main.js": "/static/js/main.93081529.js",
+    "main.js": "/static/js/main.3387e509.js",
     "static/js/787.1040a89b.chunk.js": "/static/js/787.1040a89b.chunk.js",
     "static/media/tarkov_help.png": "/static/media/tarkov_help.13dee05c0e086bbd7bb6.png",
     "static/media/react.png": "/static/media/react.809fed23bcdd686de66e.png",
@@ -15,11 +15,11 @@
     "static/media/vk.png": "/static/media/vk.019f95c005dbace735c7.png",
     "index.html": "/index.html",
     "main.dcd51b10.css.map": "/static/css/main.dcd51b10.css.map",
-    "main.93081529.js.map": "/static/js/main.93081529.js.map",
+    "main.3387e509.js.map": "/static/js/main.3387e509.js.map",
     "787.1040a89b.chunk.js.map": "/static/js/787.1040a89b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd51b10.css",
-    "static/js/main.93081529.js"
+    "static/js/main.3387e509.js"
   ]
 }
