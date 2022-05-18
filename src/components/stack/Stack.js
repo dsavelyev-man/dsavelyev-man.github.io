@@ -49,7 +49,7 @@ const STACK = [
 
 function Stack() {
     return <section id="stack" className="stack pt-5">
-        <h1 className="font-display text-4xl text-center text-white">
+        <h1 className=" text-4xl text-center text-white">
             Навыки
         </h1>
         <div className="gap-3 p-6 grid grid-cols-1 shadow-md md:grid-cols-3 lg:grid-cols-4 auto-rows-max">

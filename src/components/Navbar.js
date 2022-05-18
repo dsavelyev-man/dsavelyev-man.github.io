@@ -32,7 +32,7 @@ function Navbar() {
         initial={INITIAL}
         animate={ANIMATE}
         transition={TRANSITION}
-        className=" navbar flex items-center justify-center h-20 shadow-xl pt-4 p-2 w-full fixed"
+        className=" navbar flex items-center justify-center h-20 shadow-xl pt-4 w-full fixed"
     >
         <ul className="flex">
             {
