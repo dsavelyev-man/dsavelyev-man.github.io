@@ -7,6 +7,8 @@ import JsImg from "../../img/js.png";
 import SassImg from "../../img/sass.png";
 import ReactImg from "../../img/react.png";
 import NodeImg from "../../img/node.png";
+import TsImg from "../../img/typescript.png";
+
 
 const STACK = [
     {
@@ -43,6 +45,12 @@ const STACK = [
         label: "NODE.JS",
         description: "Программная платформа, превращающая JavaScript из узкоспециализированного языка в язык общего назначения.",
         img: NodeImg,
+        status: false,
+    },
+    {
+        label: "TYPESCRIPT",
+        description: "язык программирования, представленный Microsoft в 2012 году и позиционируемый как средство разработки веб-приложений, расширяющее возможности JavaScript.",
+        img: TsImg,
         status: false,
     }
 ]

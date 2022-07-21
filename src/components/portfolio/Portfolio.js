@@ -2,6 +2,7 @@ import React from "react";
 import Card from "./Card";
 import "../../scss/portfolio.scss"
 import TarkovHelpImg from "../../img/tarkov_help.png";
+import DominosImg from "../../img/dominos.png";
 
 const PORTFOLIO = [
     {
@@ -9,6 +10,12 @@ const PORTFOLIO = [
         description: "Сайт помощник, для игры Escape from Tarkov, Для популярного стримера твича Dunduk.",
         link: "https://new.tarkov.help",
         img: TarkovHelpImg
+    },
+    {
+        label: "Domino`s",
+        description: "Доставка пиццы, с выбором города, типа доставки, корзиной, и сохранением данных до следующего дня.",
+        link: "https://dsclub.space/pizza",
+        img: DominosImg
     }
 ]
 
